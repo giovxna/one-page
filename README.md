@@ -1,4 +1,5 @@
-![blog-codelandia](https://user-images.githubusercontent.com/75648437/149381422-cb5c0ea8-4612-4bab-a01a-bb28a27f726c.png)
+![blog-codelandia (1)](https://user-images.githubusercontent.com/75648437/149381702-4fd121eb-148d-40a4-b2e2-72c06438c779.png)
+
 
 ## 🌈 sobre
 
