@@ -5,6 +5,10 @@ este foi um projeto desenvolvido a partir de um protótipo do figma, disponibili
 </br></br>
 você pode conferir [aqui](https://giovxna.github.io/one-page/).
 
+## 💻 layout
+
+você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=3738%3A2). é necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 ## ✨ tecnologias
 
 esse projeto foi desenvolvido com as seguintes tecnologias:
